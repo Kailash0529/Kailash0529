@@ -2,10 +2,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganmangal&label=Profile%20views&color=0e75b6&style=flat" alt="kailashjoshi" /> </p>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🚀 Full-stack developer in the making.
+
 🌟 Turning caffeine into code since [insert start date of your coding journey].
+
 💻 Building apps that make users go "Wow!" and bugs go "Where did I go wrong?"
+
 🎨 Designing pixel-perfect interfaces and writing elegant code like it's poetry.
+
 🔍 Seeking the perfect balance between creativity and functionality in every project.
+
 🚀 Ready to launch into the world of tech with passion, persistence, and a pinch of humor.
 
 <h3 align="left">Connect with me:</h3>
